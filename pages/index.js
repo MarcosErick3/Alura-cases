@@ -1,6 +1,8 @@
-import HomeScreen from '../src/Screens/HomeScreen.js';
+// index.js
+import HomeScreen from '../src/screens/HomeScren';
 
 export default HomeScreen;
+
 
 // import React from 'react';
 // import Link from '../src/components/Link';
