@@ -1,6 +1,6 @@
 // import Head from 'next/head'
 // import Link from '../src/components/Link';
-import FAQScreen from '../src/Screens/FAQScreen..js';
+import FAQScreen from '../src/Screens/FAQScreen.js';
 export default FAQScreen; 
 
 // SSG - Static Site Generation
