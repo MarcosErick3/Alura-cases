@@ -1,3 +1,10 @@
+// next.config.js
+const path = require('path');
+
 module.exports = {
-    trailingSlash: true,
-}
+  reactStrictMode: true,
+  webpack: (config) => {
+    config.resolve.alias['@'] = path.resolve(__dirname);
+    return config;
+  },
+};
