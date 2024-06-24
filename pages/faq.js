@@ -1,8 +1,8 @@
 // import Head from 'next/head'
 // import Link from '../src/components/Link';
-import FAQScreen from '../src/screens/FAQScreen.';
-export default FAQScreen; 
+import FAQScreen from "../src/Screens/FaqScreen";
 
+export default FAQScreen;
 // SSG - Static Site Generation
 // SSR - Server Side Rendering
 // ISG - Incremental Static Generation
