@@ -1,5 +1,5 @@
 // index.js
-import HomeScreen from '../src/screens/HomeScreen';
+import HomeScreen from "../src/Screens/HomeScreen";
 
 export default HomeScreen;
 
